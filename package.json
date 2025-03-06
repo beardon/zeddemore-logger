@@ -1,0 +1,28 @@
+{
+  "name": "zeddemore-logger",
+  "version": "0.0.1",
+  "description": "Node.js logger using Morgan and Winston",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beardon/zeddemore-logger.git"
+  },
+  "keywords": [
+    "logger",
+    "morgan",
+    "winston"
+  ],
+  "author": "Aaron Bean <aaron.bean@beardon.com> (https://beardon.com)",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/beardon/zeddemore-logger/issues"
+  },
+  "homepage": "https://github.com/beardon/zeddemore-logger#readme",
+  "main": "lib/zeddemore-logger.js",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "lodash": "^4.17.21",
+    "morgan": "^1.10.0",
+    "uuid": "^10.0.0",
+    "winston": "^3.10.0"
+  }
+}
