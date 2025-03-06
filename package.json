@@ -1,12 +1,13 @@
 {
   "name": "zeddemore-logger",
-  "version": "0.0.1",
-  "description": "Node.js logger using Morgan and Winston",
+  "version": "1.0.0",
+  "description": "Node.js Express logger using Morgan and Winston for thread and caller info tracking",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/beardon/zeddemore-logger.git"
   },
   "keywords": [
+    "express",
     "logger",
     "morgan",
     "winston"
@@ -23,6 +24,6 @@
     "lodash": "^4.17.21",
     "morgan": "^1.10.0",
     "uuid": "^10.0.0",
-    "winston": "^3.10.0"
+    "winston": "^3.17.0"
   }
 }
