@@ -1,3 +1,3 @@
 # zeddemore-logger
 
-Node.js logger using Morgan and Winston.
+Node.js logger using Morgan and Winston and CLI-Progress.
