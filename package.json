@@ -1,6 +1,6 @@
 {
   "name": "zeddemore-logger",
-  "version": "2.2.5",
+  "version": "2.2.6",
   "description": "Node.js Express logger using Morgan and Winston for thread and caller info tracking",
   "repository": {
     "type": "git",
