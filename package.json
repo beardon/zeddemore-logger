@@ -1,15 +1,19 @@
 {
   "name": "zeddemore-logger",
-  "version": "2.3.1",
+  "version": "2.3.2",
   "description": "Node.js logger using Morgan and Winston for thread and caller info tracking",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/beardon/zeddemore-logger.git"
   },
   "keywords": [
+    "email",
     "express",
+    "ldap",
     "logger",
     "morgan",
+    "nodejs",
+    "nodemailer",
     "winston"
   ],
   "author": "Aaron Bean <aaron.bean@beardon.com> (https://beardon.com)",
