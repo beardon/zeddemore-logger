@@ -1,6 +1,6 @@
 {
   "name": "zeddemore-logger",
-  "version": "2.3.7",
+  "version": "2.4.0",
   "publishConfig": {
     "access": "public"
   },
@@ -10,13 +10,11 @@
     "url": "git+https://github.com/beardon/zeddemore-logger.git"
   },
   "keywords": [
-    "email",
     "express",
     "ldap",
     "logger",
     "morgan",
     "nodejs",
-    "nodemailer",
     "winston"
   ],
   "author": "Aaron Bean <aaron.bean@beardon.com> (https://beardon.com)",
